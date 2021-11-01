@@ -1,0 +1,300 @@
+Alice
+3  3  3  4  5  6  6  6  7  7  8  9  10  J  J  J  Q  Q  K  JokerB  
+poker_number20
+1:  JokerB  K  10  9  8  5  4  
+2:  Q  7  
+3:  J  6  3  
+4:  
+Bob
+4  5  5  6  6  6  6  7  7  7  7  8  9  9  9  9  10  10  J  J  
+poker_number20
+1:  8  4  
+2:  J  10  5  
+3:  
+4:  9  7  6  
+A:  3  3  3  4  
+Alice
+5  6  6  6  7  7  8  9  10  J  J  J  Q  Q  K  JokerB  
+poker_number16
+1:  JokerB  K  10  9  8  5  
+2:  Q  7  
+3:  J  6  
+4:  
+Bob
+4  5  5  6  6  6  6  7  7  7  7  8  9  9  9  9  10  10  J  J  
+poker_number20
+1:  8  4  
+2:  J  10  5  
+3:  
+4:  9  7  6  
+B:  4  6  6  6  
+Alice
+5  6  6  6  7  7  8  9  10  J  J  J  Q  Q  K  JokerB  
+poker_number16
+1:  JokerB  K  10  9  8  5  
+2:  Q  7  
+3:  J  6  
+4:  
+Bob
+5  5  6  7  7  7  7  8  9  9  9  9  10  10  J  J  
+poker_number16
+1:  8  6  
+2:  J  10  5  
+3:  
+4:  9  7  
+A:  5  J  J  J  
+Alice
+6  6  6  7  7  8  9  10  Q  Q  K  JokerB  
+poker_number12
+1:  JokerB  K  10  9  8  
+2:  Q  7  
+3:  6  
+4:  
+Bob
+5  5  6  7  7  7  7  8  9  9  9  9  10  10  J  J  
+poker_number16
+1:  8  6  
+2:  J  10  5  
+3:  
+4:  9  7  
+B:  ybq 
+Alice
+6  6  6  7  7  8  9  10  Q  Q  K  JokerB  
+poker_number12
+1:  JokerB  K  10  9  8  
+2:  Q  7  
+3:  6  
+4:  
+Bob
+5  5  6  7  7  7  7  8  9  9  9  9  10  10  J  J  
+poker_number16
+1:  8  6  
+2:  J  10  5  
+3:  
+4:  9  7  
+A:  6  6  6  8  
+Alice
+7  7  9  10  Q  Q  K  JokerB  
+poker_number8
+1:  JokerB  K  10  9  
+2:  Q  7  
+3:  
+4:  
+Bob
+5  5  6  7  7  7  7  8  9  9  9  9  10  10  J  J  
+poker_number16
+1:  8  6  
+2:  J  10  5  
+3:  
+4:  9  7  
+B:  6  7  7  7  
+Alice
+7  7  9  10  Q  Q  K  JokerB  
+poker_number8
+1:  JokerB  K  10  9  
+2:  Q  7  
+3:  
+4:  
+Bob
+5  5  7  8  9  9  9  9  10  10  J  J  
+poker_number12
+1:  8  7  
+2:  J  10  5  
+3:  
+4:  9  
+A:  ybq 
+Alice
+7  7  9  10  Q  Q  K  JokerB  
+poker_number8
+1:  JokerB  K  10  9  
+2:  Q  7  
+3:  
+4:  
+Bob
+5  5  7  8  9  9  9  9  10  10  J  J  
+poker_number12
+1:  8  7  
+2:  J  10  5  
+3:  
+4:  9  
+B:  5  5  
+Alice
+7  7  9  10  Q  Q  K  JokerB  
+poker_number8
+1:  JokerB  K  10  9  
+2:  Q  7  
+3:  
+4:  
+Bob
+7  8  9  9  9  9  10  10  J  J  
+poker_number10
+1:  8  7  
+2:  J  10  
+3:  
+4:  9  
+A:  7  7  
+Alice
+9  10  Q  Q  K  JokerB  
+poker_number6
+1:  JokerB  K  10  9  
+2:  Q  
+3:  
+4:  
+Bob
+7  8  9  9  9  9  10  10  J  J  
+poker_number10
+1:  8  7  
+2:  J  10  
+3:  
+4:  9  
+B:  10  10  
+Alice
+9  10  Q  Q  K  JokerB  
+poker_number6
+1:  JokerB  K  10  9  
+2:  Q  
+3:  
+4:  
+Bob
+7  8  9  9  9  9  J  J  
+poker_number8
+1:  8  7  
+2:  J  
+3:  
+4:  9  
+A:  Q  Q  
+Alice
+9  10  K  JokerB  
+poker_number4
+1:  JokerB  K  10  9  
+2:  
+3:  
+4:  
+Bob
+7  8  9  9  9  9  J  J  
+poker_number8
+1:  8  7  
+2:  J  
+3:  
+4:  9  
+B:  ybq 
+Alice
+9  10  K  JokerB  
+poker_number4
+1:  JokerB  K  10  9  
+2:  
+3:  
+4:  
+Bob
+7  8  9  9  9  9  J  J  
+poker_number8
+1:  8  7  
+2:  J  
+3:  
+4:  9  
+A:  9  
+Alice
+10  K  JokerB  
+poker_number3
+1:  JokerB  K  10  
+2:  
+3:  
+4:  
+Bob
+7  8  9  9  9  9  J  J  
+poker_number8
+1:  8  7  
+2:  J  
+3:  
+4:  9  
+B:  J  
+Alice
+10  K  JokerB  
+poker_number3
+1:  JokerB  K  10  
+2:  
+3:  
+4:  
+Bob
+7  8  9  9  9  9  J  
+poker_number7
+1:  J  8  7  
+2:  
+3:  
+4:  9  
+A:  K  
+Alice
+10  JokerB  
+poker_number2
+1:  JokerB  10  
+2:  
+3:  
+4:  
+Bob
+7  8  9  9  9  9  J  
+poker_number7
+1:  J  8  7  
+2:  
+3:  
+4:  9  
+B:  ybq 
+Alice
+10  JokerB  
+poker_number2
+1:  JokerB  10  
+2:  
+3:  
+4:  
+Bob
+7  8  9  9  9  9  J  
+poker_number7
+1:  J  8  7  
+2:  
+3:  
+4:  9  
+A:  10  
+Alice
+JokerB  
+poker_number1
+1:  JokerB  
+2:  
+3:  
+4:  
+Bob
+7  8  9  9  9  9  J  
+poker_number7
+1:  J  8  7  
+2:  
+3:  
+4:  9  
+B:  J  
+Alice
+JokerB  
+poker_number1
+1:  JokerB  
+2:  
+3:  
+4:  
+Bob
+7  8  9  9  9  9  
+poker_number6
+1:  8  7  
+2:  
+3:  
+4:  9  
+A:  JokerB  
+Alice
+
+poker_number0
+1:  
+2:  
+3:  
+4:  
+Bob
+7  8  9  9  9  9  
+poker_number6
+1:  8  7  
+2:  
+3:  
+4:  9  
+A win
